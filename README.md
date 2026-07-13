@@ -4,7 +4,7 @@
 # A Somatic Unraveling: Field Notes from the Cremation Grounds
 ## Project Brief
 
-**Crystal Street (Desert) · July 2026 · signalsandseeds.xyz**
+**cstreet (Desertrat) · July 2026 · signalsandseeds.xyz**
 
 ---
 
