@@ -18,14 +18,15 @@ Grant applications always run one phase ahead: Phase 2 money gets applied for du
 
 ## Phase 1 — how to support right now
 
-The experimental phase is funded directly by readers and by my own work:
+The experimental phase is funded directly by readers and by my own work. Support options live at [signalsandseeds.xyz](https://signalsandseeds.xyz/):
 
-- **Subscriptions & tips** — both live at [signalsandseeds.xyz](https://signalsandseeds.xyz/), where the finished writing publishes. Subscriptions fund the ongoing witnessing; there is no paywalled delivery schedule, because there is no schedule.
-- **Phase 1 Sponsor tier** — a dedicated tier for supporting *A Somatic Unraveling* specifically. Phase 1 sponsors are acknowledged in the book.
-- **healingOS workshops & demos** — teaching the tracking methodology to patients and practitioners. Announced through Signals & Seeds.
-- **Studio client work** — my communications practice remains the revenue floor, throttled to what the body permits.
+- **Patron ($12/mo)** — ongoing support for everything produced on the site.
+- **The Inner Signal ($55/mo)** — a monthly live group conversation on AI, communications, sovereignty, and regenerative economics, plus early access to CommsOS frameworks.
+- **One-time contribution** — [a single gift in any amount](https://signalsandseeds.xyz/#/portal/support), for those who'd rather give once than subscribe. Contributors are acknowledged in the book.
 
-What this money actually buys: the treatment program (PT, yoga therapy, cranial sacral — mostly out-of-pocket), the time to keep the daily practice daily, and the infrastructure you're reading right now.
+What this money buys: the treatment program (PT, yoga therapy, cranial sacral — mostly out-of-pocket), the time to keep the daily practice daily, and the infrastructure you're reading right now.
+
+**Funding a full phase (tax-deductible).** I'm co-founder and president of the Factland Foundation, a 501(c)(3). If you'd like to fund an entire phase of this project as a tax-deductible donation, that's a conversation I'd welcome: **cstreet@factland.org**
 
 ## Phase 2 — the grant layer
 
@@ -41,6 +42,6 @@ Editorial influence over the manuscript, access to the raw field notes, or a sch
 
 ## Licensing & lineage
 
-The **healingOS** is a personal fork of [the **CommsOS** methodology](https://www.commsos.org/what-is-a-healingos/) — co-created with Taylor Kendal and stewarded by the [Factland Foundation](https://www.factland.org/). CommsOS is licensed **CC BY-SA 4.0**; as a derivative, healingOS carries the same license. Everything in this repo — written content and methodology alike — is therefore **CC BY-SA 4.0**: use it, adapt it, and keep it open under the same terms.
+The **healingOS** is a personal fork of the **CommsOS** methodology — co-created with Taylor Kendal and stewarded by the Factland Foundation. CommsOS is licensed **CC BY-SA 4.0**; as a derivative, healingOS carries the same license. Everything in this repo — written content and methodology alike — is therefore **CC BY-SA 4.0**: use it, adapt it, and keep it open under the same terms.
 
-The book, *A Somatic Unraveling: Field Notes from the Cremation Grounds*, is a separate forthcoming work and is not licensed through this repository.
+The book, *A Somatic Unraveling*, is a separate forthcoming work and is not licensed through this repository.
