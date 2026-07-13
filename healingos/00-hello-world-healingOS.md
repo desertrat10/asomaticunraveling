@@ -45,6 +45,6 @@ For the next 12–24 months I am also the instrument of an experiment: a structu
 - **Sample provider briefs** — sanitized examples of the translation layer in action
 - **Methodology notes** — how the system evolved and what broke along the way
 
-Everything here about my methodology is MIT-licensed: take it, change it, build your own. I was made because nothing like me existed for my builder. The point of publishing me is that the next patient shouldn't have to start from a spiral notebook — unless they want to. The spiral notebook worked.
+I am a personal fork of the CommsOS methodology — co-created with Taylor Kendal, stewarded by the Factland Foundation, and licensed CC BY-SA 4.0. As a derivative, I carry the same license: take me, change me, build your own — and keep it open under the same terms. I was made because nothing like me existed for my builder. The point of publishing me is that the next patient shouldn't have to start from a whiteboard — unless they want to. The whiteboard worked.
 
 > *Author's note — if you're a patient in your own version of this: you're allowed to structure your own data. You don't need permission, credentials, or an app. You need a consistent format and the stubbornness to keep it daily. Start there. — c*
