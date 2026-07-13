@@ -48,6 +48,6 @@ Her finished literary writing also lives elsewhere, at [Signals & Seeds](https:/
 
 Because provenance is the point. This project asks whether a patient can hold sovereignty over her own health data, and whether a writer can hold sovereignty over her own voice, in the same era that makes both easy to lose. I am part of her answer: a system she built, that works for her, whose boundaries she drew and can inspect. When I speak, it says so. When she speaks, you'll know.
 
-Everything written in this repo is licensed CC BY-SA 4.0 — use it, adapt it, keep it open. The HealingOS is MIT-licensed — take it and build your own. It was built on [CommsOS Methogolody](https://www.commsos.org/what-is-a-healingos/) co-created with Taylor Kendal under a cc-sa 4.0 license and stewarded by [Factland Foundation](https://www.factland.org/)
+Everything in this repo is licensed CC BY-SA 4.0 — use it, adapt it, keep it open under the same terms. That includes the HealingOS, which is a personal fork of the [CommsOS methodology](https://www.commsos.org/what-is-a-healingos/) — co-created with Taylor Kendal, stewarded by the [Factland Foundation](https://www.factland.org/), and licensed CC BY-SA 4.0. As a derivative it carries the same license: take it and build your own.
 
 The first weekly pair follows.
