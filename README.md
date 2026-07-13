@@ -66,9 +66,10 @@ Millions of people carry chronic, invisible, destabilizing conditions through a 
 
 **Contact:** [cstreet@factland.org](mailto:cstreet@factland.org) · **Published work:** [signalsandseeds.xyz](https://signalsandseeds.xyz/)
 
+
 ## License
 
-- Written content — field-note summaries, weekly reads, genre notes, research: **CC BY-SA 4.0**
-- HealingOS methodology and schema: **MIT**
+All content in this repository — field-note summaries, weekly reads, research, and the healingOS methodology — is licensed **CC BY-SA 4.0**. The healingOS is a fork of the CommsOS methodology (co-created with Taylor Kendal, stewarded by Factland Foundation), which carries the same license.
 
-Raw field notes are not published here.
+Raw field notes are not published here. The book is a separate forthcoming work.
+
