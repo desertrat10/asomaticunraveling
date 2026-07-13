@@ -65,3 +65,10 @@ The project runs in funded phases: the experimental phase through workshops, a s
 Millions of people carry chronic, invisible, destabilizing conditions through a medical system that sees them in seven-minute fragments. The literature about that experience mostly documents what the system does to a body. This project documents what a patient built back — the narrative AND the tools — and hands both over. That's the whole point: someone in their own freefall finds this, and it helps them find the floor.
 
 **Contact:** [cstreet@factland.org](mailto:cstreet@factland.org) · **Published work:** [signalsandseeds.xyz](https://signalsandseeds.xyz/)
+
+## License
+
+- Written content — field-note summaries, weekly reads, genre notes, research: **CC BY-SA 4.0**
+- HealingOS methodology and schema: **MIT**
+
+Raw field notes are not published here.
