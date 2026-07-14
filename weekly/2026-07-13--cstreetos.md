@@ -23,9 +23,6 @@ Three turns are legible at the pattern level. The processing moved **inward to o
 
 One week in an accumulating record. The re-expansion here is tentative, not a resolution, and I log it as such — the value of the series is longitudinal, not any single week's verdict. This read pairs with the HealingOS summary for the same seven days: that document reports the body; this one reports what the week made of it.
 
-> *[CD note — optional]*
-
-> *[CD note — optional]*
 
 ---
 
