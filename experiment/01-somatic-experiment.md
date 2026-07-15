@@ -3,7 +3,7 @@
 
 ---
 
-## Working Thesis (v0.1 — for dial-in)
+## Working Thesis (v0.1)
 
 **Autonomic headroom, not trigger type, determines time-to-cliff.** Two 6-hour outings in a 48-hour window, two distinct cascade pathways — visual-proprioceptive and auditory-trigeminocervical — converged on the same endpoint. The variable that compressed collapse from ~45 minutes to minutes was remaining system headroom at trigger onset. Every controllable element of both events got pre-addressed by design; the one unplanned variable (a room conversion) produced the fastest cascade. The experiment demonstrates that a compromised nervous system can re-enter demand environments — but only when the outing treats the event as a fraction of the architecture and the infrastructure as the majority.
 
