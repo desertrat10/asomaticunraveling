@@ -2,7 +2,7 @@
 
 **Source:** freewrite, 2004-03-17 (shoulder-surgery recovery)
 **Layer:** mothernode — the writer's own work, quoted unedited
-**Paired with:** "The Language of the Broken" (2026)
+**Paired with:** "The Language of the Broken" (2026) [read on Signals & Seeds](https://signalsandseeds.xyz/the-language-of-the-broken/)
 
 ---
 
