@@ -1,4 +1,4 @@
-> **Companion to the essay:** "The Language of the Broken" — [read on Signals & Seeds]([S&S-URL-PLACEHOLDER])
+> **Companion to the essay:** "The Language of the Broken" — [read on Signals & Seeds](https://signalsandseeds.xyz/the-language-of-the-broken/)
 
 ## cstreetOS — Pattern Note
 
