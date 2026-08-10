@@ -33,8 +33,8 @@ Designed to precede HR blocks or stand alone on high-pain days. Focus on gentle 
 
 Designed to close full or modified sequences, or as standalone practices. Vagal-channel work targeting parasympathetic expansion and autonomic headroom over time.
 
-- **[NS-B1-COMING SOON](#ns-b1)** — Savasana, Sukhāsana, Nadi Shodhana.
-- **[NS-B2-COMING SOON](#ns-b2)** — Savasana, Sukhāsana, Brahmari (bee breath).
+- **[NS-B1](https://www.tummee.com/yoga-sequence/s1La3)** — Savasana, Sukhāsana, Nadi Shodhana.
+- **[NS-B2](https://www.tummee.com/yoga-sequence/In48J)** — Savasana, Sukhāsana, Brahmari (bee breath).
 
 ## Typical Stacking Patterns
 
@@ -53,5 +53,5 @@ Designed to close full or modified sequences, or as standalone practices. Vagal-
 - [HR-B4: Supine Recovery](https://www.tummee.com/yoga-sequence/xDnCc)
 - [ROM-B1: Seated Mobility](https://www.tummee.com/yoga-sequence/svqas)
 - [ROM-B2: Quadrupedal Transition](https://www.tummee.com/yoga-sequence/aSP4e)
-- [NS-B1: Savasana + Nadi Shodhana — COMING SOON]()
-- [NS-B2: Savasana + Brahmari — COMING SOON]()
+- [NS-B1: Savasana + Nadi Shodhana](https://www.tummee.com/yoga-sequence/s1La3)
+- [NS-B2: Savasana + Brahmari](https://www.tummee.com/yoga-sequence/In48J)
