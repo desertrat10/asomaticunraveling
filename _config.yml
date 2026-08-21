@@ -1,0 +1,9 @@
+title: A Somatic Unraveling
+description: Field notes, weekly reads, and the healingOS methodology.
+remote_theme: just-the-docs/just-the-docs
+
+aux_links:
+  "GitHub": https://github.com/desertrat10/asomaticunraveling
+  "signalsandseeds.xyz": https://signalsandseeds.xyz/
+
+search_enabled: true
