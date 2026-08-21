@@ -1,9 +1,24 @@
 title: A Somatic Unraveling
 description: Field notes, weekly reads, and the healingOS methodology.
 remote_theme: just-the-docs/just-the-docs
+search_enabled: true
 
 aux_links:
   "GitHub": https://github.com/desertrat10/asomaticunraveling
   "signalsandseeds.xyz": https://signalsandseeds.xyz/
 
-search_enabled: true
+defaults:
+  - scope: { path: "project" }
+    values: { layout: default, parent: "Project" }
+  - scope: { path: "healingos" }
+    values: { layout: default, parent: "HealingOS" }
+  - scope: { path: "pt-protocol" }
+    values: { layout: default, parent: "PT Protocol" }
+  - scope: { path: "somatic-practices" }
+    values: { layout: default, parent: "Somatic Practices" }
+  - scope: { path: "experiment" }
+    values: { layout: default, parent: "Experiments" }
+  - scope: { path: "weekly" }
+    values: { layout: default, parent: "Weekly" }
+  - scope: { path: "signals" }
+    values: { layout: default, parent: "Signals" }
