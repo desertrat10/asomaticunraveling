@@ -1,0 +1,21 @@
+site_name: A Somatic Unraveling
+site_description: Field notes, weekly reads, and the healingOS methodology.
+repo_url: https://github.com/desertrat10/asomaticunraveling
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - footnotes
+  - toc:
+      permalink: true
+
+copyright: CC BY-SA 4.0 cstreet
