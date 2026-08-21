@@ -22,3 +22,5 @@ defaults:
     values: { layout: default, parent: "Weekly" }
   - scope: { path: "signals" }
     values: { layout: default, parent: "Signals" }
+    plugins:
+  - jekyll-remote-theme
