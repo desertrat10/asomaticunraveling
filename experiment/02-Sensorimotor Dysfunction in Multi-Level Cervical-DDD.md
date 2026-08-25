@@ -36,7 +36,7 @@ These patients present the same sensory mismatch mechanism Treleaven describes, 
 ## The Case
 
 **Patient profile:**
-- Late 40s, former Division I collegiate athlete (scholarship, elite-level training history), former career requiring decades of asymmetric heavy gear carrying, certified yoga therapist (500-hour advanced certification, 15+ years of personal practice)
+- Early 50s, former Division I collegiate athlete (scholarship, elite-level training history), former career requiring decades of asymmetric heavy gear carrying, certified yoga therapist (500-hour advanced certification, 15+ years of personal practice)
 - Prior upper extremity surgery over two decades ago — never fully recovered biomechanically; the contralateral side has carried compensatory load across upper trap, levator scap, rhomboids, and thoracic erectors for the full intervening period
 - Cervical spine injury approximately 29 months ago
 - Currently in second round of PT, transitioning from reactive release toward endurance-based strengthening
