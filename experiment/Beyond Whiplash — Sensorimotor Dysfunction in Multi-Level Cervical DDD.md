@@ -163,4 +163,4 @@ The collaborator brings:
 
 Licensed CC BY-SA 4.0 — including the HealingOS methodology, [a fork of CommsOS](https://github.com/desertrat10/commsos) (co-created with Taylor Kendal, stewarded by [Factland Foundation](https://www.factland.org/)).
 
-Raw field notes are not published here. The book is a separate forthcoming work.
+
