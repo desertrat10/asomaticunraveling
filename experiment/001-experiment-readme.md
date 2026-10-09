@@ -26,7 +26,7 @@ All content is licensed CC BY-SA 4.0.
 
 | Doc | What It Is | Start Here? |
 |-----|------------|-------------|
-| [`working-thesis-v2.md`](working-thesis-v2.md) | The main thesis — research gap, Li et al. integration, novelty claims | ✅ Yes |
+| [`working-thesis-v2.md`](working-thesis-v2-OCT2026.md) | The main thesis — research gap, Li et al. integration, novelty claims | ✅ Yes |
 | [`neuro-storm-case-report.md`](neuro-storm-case-report.md) | n=1 adverse event: 60-second exercise → 72+ hour cascade | For depth |
 | [`model-access-notes.md`](model-access-notes.md) | How the key research paper was found after months of failed searches | Background |
 
@@ -36,7 +36,7 @@ Below is a plain-language summary of each document.
 
 ## Document Summaries
 
-### [`working-thesis-v2.md`](working-thesis-v2.md) — The Main Thesis
+### [`working-thesis-v2.md`](working-thesis-v2-OCT2026.md) — The Main Thesis
 
 This is the core research document. It starts with the observation that nearly all existing research on cervicogenic dizziness (dizziness caused by neck pathology) is based on **whiplash-associated disorder (WAD)** populations—young-ish people with acute traumatic injuries, typically one or two damaged disc levels. But many patients have **degenerative multi-level cervical disc disease**—progressive wear-and-tear across five or more levels, often starting in their 40s or 50s, sometimes decades after prior surgeries or asymmetric occupational loading.
 
